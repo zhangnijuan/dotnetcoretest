@@ -1,0 +1,9 @@
+F:\vs2017demo\DotNetCoreTestDemo\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+F:\vs2017demo\DotNetCoreTestDemo\Common\bin\Debug\netcoreapp2.2\Common.dll
+F:\vs2017demo\DotNetCoreTestDemo\Common\bin\Debug\netcoreapp2.2\Common.pdb
+F:\vs2017demo\DotNetCoreTestDemo\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+F:\vs2017demo\DotNetCoreTestDemo\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+F:\vs2017demo\DotNetCoreTestDemo\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+F:\vs2017demo\DotNetCoreTestDemo\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+F:\vs2017demo\DotNetCoreTestDemo\Common\obj\Debug\netcoreapp2.2\Common.dll
+F:\vs2017demo\DotNetCoreTestDemo\Common\obj\Debug\netcoreapp2.2\Common.pdb
