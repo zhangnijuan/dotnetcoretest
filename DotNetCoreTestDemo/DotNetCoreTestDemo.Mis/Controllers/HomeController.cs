@@ -54,9 +54,7 @@ namespace DotNetCoreTestDemo.Mis.Controllers
             //var ur = _userRoleService.GetList(i => true,false).Include(i=>i.Role).Include(i=>i.UserInfo).FirstOrDefault();
 
             //_userRoleService.Delete(ur);
-            log.Error(222222222);
-            int c = 0;
-            var a = 1 / c;
+            
            
             return View();
         }
