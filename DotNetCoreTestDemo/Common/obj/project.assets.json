@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\vs2017demo\\DotNetCoreTestDemo\\Common\\Common.csproj",
+      "projectUniqueName": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\Common\\Common.csproj",
+      "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\zhangnijuan\\.nuget\\packages\\",
-      "outputPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\Common\\obj\\",
+      "outputPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

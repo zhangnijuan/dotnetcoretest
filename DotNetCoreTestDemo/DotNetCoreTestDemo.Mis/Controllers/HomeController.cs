@@ -10,6 +10,8 @@ using DotNetCoreTestDemo.IBll;
 using Microsoft.AspNetCore.Mvc;
 using DotNetCoreTestDemo.Mis.Models;
 using DotNetCoreTestDemo.Model.Models;
+using log4net;
+using Microsoft.EntityFrameworkCore;
 
 namespace DotNetCoreTestDemo.Mis.Controllers
 {
@@ -17,23 +19,45 @@ namespace DotNetCoreTestDemo.Mis.Controllers
 
     {
         private readonly IUserInfoService _userInfoService;
-        public HomeController(IUserInfoService userInfoService)
+        private readonly IRoleService _roleService;
+        private readonly IUserRoleService _userRoleService;
+        private ILog log = LogManager.GetLogger(Startup.Repository.Name, typeof(HomeController));
+        public HomeController(IUserInfoService userInfoService, IRoleService roleService, IUserRoleService userRoleService)
         {
             this._userInfoService = userInfoService;
+            this._roleService = roleService;
+            this._userRoleService = userRoleService;
         }
         public IActionResult Index()
         {
-            //UserInfo user=new UserInfo()
+            //  UserInfo user = new UserInfo()
+            //  {
+            //      Name = "张",
+            //      UserName = "zhangnijuan",
+            //      PassWord = "123456",
+            //      IsDelete = false,
+            //      Phone = "13345555555"
+            //  };
+            //var flag=  _userInfoService.InsertAsync(user).Result;
+            // Role role=new Role()
+            // {
+            //     RoleName = "管理员",
+            //     IsDelete = false
+            // };
+            //var  flag = _roleService.InsertAsync(role).Result;
+            //UserRole ur=new UserRole()
             //{
-            //    Name = "张",
-            //    UserName = "zhangnijuan",
-            //    PassWord = "123456",
-            //    IsDelete = false,
-            //    Phone = "13345555555"
+            //    RoleId = role.Id,
+            //    UserId = user.Id
             //};
-            var list1 = _userInfoService.GetList(i => true,false).ToList();
-            var res = _userInfoService.DeleteAsync(list1).Result;
-             var list = _userInfoService.Count(i => true);
+            //flag = _userRoleService.InsertAsync(ur).Result;
+            //var ur = _userRoleService.GetList(i => true,false).Include(i=>i.Role).Include(i=>i.UserInfo).FirstOrDefault();
+
+            //_userRoleService.Delete(ur);
+            log.Error(222222222);
+            int c = 0;
+            var a = 1 / c;
+           
             return View();
         }
 

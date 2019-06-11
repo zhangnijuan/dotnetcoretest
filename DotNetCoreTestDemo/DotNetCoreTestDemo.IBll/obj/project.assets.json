@@ -3490,11 +3490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\DotNetCoreTestDemo.IBll.csproj",
+      "projectUniqueName": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\DotNetCoreTestDemo.IBll.csproj",
       "projectName": "DotNetCoreTestDemo.IBll",
-      "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\DotNetCoreTestDemo.IBll.csproj",
+      "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\DotNetCoreTestDemo.IBll.csproj",
       "packagesPath": "C:\\Users\\zhangnijuan\\.nuget\\packages\\",
-      "outputPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\obj\\",
+      "outputPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3513,8 +3513,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj": {
-              "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj"
+            "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj": {
+              "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj"
             }
           }
         }

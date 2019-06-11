@@ -3525,11 +3525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Dal\\DotNetCoreTestDemo.Dal.csproj",
+      "projectUniqueName": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Dal\\DotNetCoreTestDemo.Dal.csproj",
       "projectName": "DotNetCoreTestDemo.Dal",
-      "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Dal\\DotNetCoreTestDemo.Dal.csproj",
+      "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Dal\\DotNetCoreTestDemo.Dal.csproj",
       "packagesPath": "C:\\Users\\zhangnijuan\\.nuget\\packages\\",
-      "outputPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Dal\\obj\\",
+      "outputPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3548,14 +3548,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\vs2017demo\\DotNetCoreTestDemo\\Common\\Common.csproj": {
-              "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\Common\\Common.csproj"
+            "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\Common\\Common.csproj": {
+              "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\Common\\Common.csproj"
             },
-            "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IDal\\DotNetCoreTestDemo.IDal.csproj": {
-              "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IDal\\DotNetCoreTestDemo.IDal.csproj"
+            "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IDal\\DotNetCoreTestDemo.IDal.csproj": {
+              "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IDal\\DotNetCoreTestDemo.IDal.csproj"
             },
-            "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj": {
-              "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj"
+            "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj": {
+              "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj"
             }
           }
         }

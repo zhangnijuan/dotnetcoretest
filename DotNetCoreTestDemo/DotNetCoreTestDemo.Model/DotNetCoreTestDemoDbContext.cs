@@ -20,7 +20,7 @@ namespace DotNetCoreTestDemo.Model
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer(@"server=DESKTOP-FG2KKB5\ZHANGNIJUAN;Database=DotNetCoreTestDemo;Integrated Security=True;uid=sa;pwd=123456");
+           // optionsBuilder.UseSqlServer(@"server=DESKTOP-FG2KKB5\ZHANGNIJUAN;Database=DotNetCoreTestDemo;Integrated Security=True;uid=sa;pwd=123456");
             
         }
 

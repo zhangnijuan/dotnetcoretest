@@ -10,3 +10,15 @@ F:\vs2017demo\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2
 F:\vs2017demo\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.csproj.CopyComplete
 F:\vs2017demo\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.dll
 F:\vs2017demo\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.pdb
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.deps.json
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.dll
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.pdb
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.Model.dll
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.Model.pdb
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.csprojAssemblyReference.cache
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.csproj.CoreCompileInputs.cache
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.AssemblyInfoInputs.cache
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.AssemblyInfo.cs
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.csproj.CopyComplete
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.dll
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IDal\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IDal.pdb

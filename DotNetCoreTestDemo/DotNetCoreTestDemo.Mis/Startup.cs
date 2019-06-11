@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Runtime.InteropServices.ComTypes;
@@ -11,8 +12,12 @@ using DotNetCoreTestDemo.Dal;
 using DotNetCoreTestDemo.IBll;
 using DotNetCoreTestDemo.IDal;
 using DotNetCoreTestDemo.Mis.Controllers;
+using DotNetCoreTestDemo.Mis.Filter;
 using DotNetCoreTestDemo.Model;
 using DotNetCoreTestDemo.Model.Models;
+using log4net;
+using log4net.Config;
+using log4net.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -25,9 +30,15 @@ namespace DotNetCoreTestDemo.Mis
 {
     public class Startup
     {
+        public static ILoggerRepository Repository { get; set; }
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            Repository = LogManager.CreateRepository("NETCoreRepository");
+            var fileInfo =
+                new FileInfo("log4net.config");
+          XmlConfigurator.Configure(Repository,fileInfo );
+         
         }
 
         public IConfiguration Configuration { get; }
@@ -43,7 +54,10 @@ namespace DotNetCoreTestDemo.Mis
             });
 
             
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc(options=>
+            {
+                options.Filters.Add(typeof(HttpGlobalExceptionFilter));
+            }).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             var builder = RegisterAutofac(services);
             return new AutofacServiceProvider(builder.Build());

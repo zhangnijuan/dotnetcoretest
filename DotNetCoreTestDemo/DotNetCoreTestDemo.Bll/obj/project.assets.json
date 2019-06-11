@@ -3527,11 +3527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Bll\\DotNetCoreTestDemo.Bll.csproj",
+      "projectUniqueName": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Bll\\DotNetCoreTestDemo.Bll.csproj",
       "projectName": "DotNetCoreTestDemo.Bll",
-      "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Bll\\DotNetCoreTestDemo.Bll.csproj",
+      "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Bll\\DotNetCoreTestDemo.Bll.csproj",
       "packagesPath": "C:\\Users\\zhangnijuan\\.nuget\\packages\\",
-      "outputPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Bll\\obj\\",
+      "outputPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Bll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3550,11 +3550,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\DotNetCoreTestDemo.IBll.csproj": {
-              "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\DotNetCoreTestDemo.IBll.csproj"
+            "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\DotNetCoreTestDemo.IBll.csproj": {
+              "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IBll\\DotNetCoreTestDemo.IBll.csproj"
             },
-            "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IDal\\DotNetCoreTestDemo.IDal.csproj": {
-              "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IDal\\DotNetCoreTestDemo.IDal.csproj"
+            "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IDal\\DotNetCoreTestDemo.IDal.csproj": {
+              "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.IDal\\DotNetCoreTestDemo.IDal.csproj"
             }
           }
         }

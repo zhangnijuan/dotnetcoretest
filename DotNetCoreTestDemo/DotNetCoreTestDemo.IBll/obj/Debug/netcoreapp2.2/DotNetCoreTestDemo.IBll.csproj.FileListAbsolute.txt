@@ -10,3 +10,15 @@ F:\vs2017demo\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2
 F:\vs2017demo\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.csproj.CopyComplete
 F:\vs2017demo\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.dll
 F:\vs2017demo\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.pdb
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.deps.json
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.dll
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.pdb
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.Model.dll
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\bin\Debug\netcoreapp2.2\DotNetCoreTestDemo.Model.pdb
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.csprojAssemblyReference.cache
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.csproj.CoreCompileInputs.cache
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.AssemblyInfoInputs.cache
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.AssemblyInfo.cs
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.csproj.CopyComplete
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.dll
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.IBll\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.IBll.pdb

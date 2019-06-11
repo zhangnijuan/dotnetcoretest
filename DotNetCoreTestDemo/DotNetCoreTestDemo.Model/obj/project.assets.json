@@ -3619,11 +3619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj",
+      "projectUniqueName": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj",
       "projectName": "DotNetCoreTestDemo.Model",
-      "projectPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj",
+      "projectPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\DotNetCoreTestDemo.Model.csproj",
       "packagesPath": "C:\\Users\\zhangnijuan\\.nuget\\packages\\",
-      "outputPath": "F:\\vs2017demo\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\obj\\",
+      "outputPath": "F:\\vs2017demo\\dotnetcoretest\\DotNetCoreTestDemo\\DotNetCoreTestDemo.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
