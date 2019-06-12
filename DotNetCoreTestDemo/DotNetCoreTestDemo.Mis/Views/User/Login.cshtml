@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .reg {
+        margin-bottom: 10px;
+    }
+</style>
+
+<form method="post">
+
+    <div class="form-group row">
+        <label for="userName" class="col-sm-2 col-form-label col-form-label-lg">用户名</label>
+        <div class="col-sm-10 reg">
+            <input type="text" class="form-control form-control-lg" name="userName" id="userName" placeholder="输入用户名">
+        </div>
+        <label for="pwd" class="col-sm-2 col-form-label col-form-label-lg">密码</label>
+        <div class="col-sm-10 reg">
+            <input type="password" class="form-control form-control-lg" id="pwd" name="pwd" placeholder="输入密码">
+        </div>
+        <button type="submit" class="btn btn-primary">登录</button>
+    </div>
+</form>
+

@@ -84,3 +84,5 @@ F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.Mis\obj\Debug
 F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.Mis\obj\Debug\netcoreapp2.2\DotNetCoreTestDemo.Mis.pdb
 F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.Mis\bin\Debug\netcoreapp2.2\log4net.config
 F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.Mis\bin\Debug\netcoreapp2.2\appsettings.json
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.Mis\obj\Debug\netcoreapp2.2\Razor\Views\User\Register.g.cshtml.cs
+F:\vs2017demo\dotnetcoretest\DotNetCoreTestDemo\DotNetCoreTestDemo.Mis\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs

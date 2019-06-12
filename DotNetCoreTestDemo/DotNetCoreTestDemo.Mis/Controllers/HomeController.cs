@@ -11,10 +11,13 @@ using Microsoft.AspNetCore.Mvc;
 using DotNetCoreTestDemo.Mis.Models;
 using DotNetCoreTestDemo.Model.Models;
 using log4net;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 
 namespace DotNetCoreTestDemo.Mis.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
 
     {
@@ -54,8 +57,8 @@ namespace DotNetCoreTestDemo.Mis.Controllers
             //var ur = _userRoleService.GetList(i => true,false).Include(i=>i.Role).Include(i=>i.UserInfo).FirstOrDefault();
 
             //_userRoleService.Delete(ur);
-            
-           
+
+            var claims = HttpContext.User.Claims;
             return View();
         }
 

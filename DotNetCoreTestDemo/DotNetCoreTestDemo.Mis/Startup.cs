@@ -18,6 +18,7 @@ using DotNetCoreTestDemo.Model.Models;
 using log4net;
 using log4net.Config;
 using log4net.Repository;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -53,7 +54,12 @@ namespace DotNetCoreTestDemo.Mis
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, options =>
+                {
+                    options.LoginPath = "/user/login";
+                    options.Cookie.Path = "/";
+                });
             services.AddMvc(options=>
             {
                 options.Filters.Add(typeof(HttpGlobalExceptionFilter));
@@ -113,7 +119,7 @@ namespace DotNetCoreTestDemo.Mis
 
             app.UseStaticFiles();
             app.UseCookiePolicy();
-
+            app.UseAuthentication();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
